@@ -1,0 +1,36 @@
+/*Añadir estilos solo tomando lo aprendido hasta el momento.*/
+*{
+    box-sizing: border-box;
+}
+.container-main {
+    width: 80%;
+    margin: 0 auto;
+    background-color: beige;
+    padding: 2rem 2rem;
+}
+h1 {
+    font-size: 2.5rem;
+    color: #333;
+    text-align: center;
+    margin-top: 0;
+}
+.container-content {
+    width: 100%;
+    font: 0;
+}
+img {
+    width: 49%;
+    height: auto;
+    display: inline-block;
+    vertical-align: top;
+    margin-right: 5px;
+}
+.container-ingredients {
+    width: 49%;
+    display: inline-block;
+    margin-right: auto;
+    box-sizing: border-box;
+}
+.container-ingredients h2 {
+    text-align: center;
+}
